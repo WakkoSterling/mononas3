@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mononas3</string>
+    <string name="titulo_principal">Mononas</string>
+    <string name="titulo_inventario">Gestión de Productos</string>
+    <string name="boton_consultas">Consultas</string>
+    <string name="boton_inventario">Inventario</string>
+    <string name="boton_ingresar_producto">Ingresar Producto</string>
+    <string name="boton_modificar_producto">Modificar Producto</string>
+    <string name="boton_eliminar_producto">Eliminar Producto</string>
+    <string name="boton_volver">Volver</string>
+</resources>
+
+
