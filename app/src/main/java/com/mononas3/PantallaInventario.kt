@@ -33,7 +33,7 @@ fun PantallaInventario(navController: NavHostController) {
 
         Button(
             onClick = { /* Acción del botón Ingresar Producto */ },
-            colors = ButtonDefaults.buttonColors(backgroundColor = Color.Green, contentColor = Color.White),
+            colors = ButtonDefaults.buttonColors(backgroundColor = Color.DarkGray, contentColor = Color.White),
             modifier = Modifier.fillMaxWidth(0.5f).padding(vertical = 8.dp),
             shape = RoundedCornerShape(16.dp),
 
